@@ -1,0 +1,1 @@
+// to implement the controller for logout function in our expense tracker app
